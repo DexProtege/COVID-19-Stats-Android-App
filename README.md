@@ -12,7 +12,7 @@ It is a personal project developed by me in Android Studio using Kotlin. It is b
 
 ## Screenshots
 
-<img src="screenshots/ss.jpeg" width="250" >
+<img src="ss.jpeg" width="250" >
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
