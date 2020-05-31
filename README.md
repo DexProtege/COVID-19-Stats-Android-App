@@ -10,9 +10,9 @@ It is a personal project developed by me in Android Studio using Kotlin. It is b
 - [Kotlin](https://kotlinlang.org/)
 - [Android Studio](https://developer.android.com/studio)
 
-## Screenshots
+## Screenshot
 
-<img src="ss.jpeg" width="250" >
+<img src="ss.jpeg" width="150" >
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
