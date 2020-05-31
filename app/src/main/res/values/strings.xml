@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Covid-19 Tracker</string>
+    <string name="default_notification_channel_id" />
+    <string name="default_notification_channel_name" />
+    <string name="text_confirmed_cases" />
+    <string name="text_last_updated" />
+</resources>
